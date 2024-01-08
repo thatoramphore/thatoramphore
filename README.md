@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Thato Ramphore</h1>
 <h3 align="center">A passionate fullstack developer from South Africa</h3>
 
-- 🔭 I’m currently working on [The Bug Tracker](https://github.com/thatoramphore/TheBugTracker)
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **ReactJS**
 
 - 👨‍💻 All of my projects are available at [https://thato.netlify.app/](https://thato.netlify.app/)
 
