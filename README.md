@@ -2,7 +2,7 @@
 <h3 align="center">A passionate fullstack developer from South Africa</h3>
 
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently building with **.NET** and **Angular** stack 
 
 - 👨‍💻 All of my projects are available at [https://thato.netlify.app/](https://thato.netlify.app/)
 
