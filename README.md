@@ -4,7 +4,7 @@
 
 - 🌱 I’m building stuff on the cloud, lately, AWS cloud 
 
-- 👨‍💻 Check out my portfolio at [https://thato.dev//](https://thato.dev//)
+- 👨‍💻 Check out my portfolio at [https://thato.dev/](https://thato.dev/)
 
 - 📫 Reach out at **thatoramphore.info@gmail.com**
 
