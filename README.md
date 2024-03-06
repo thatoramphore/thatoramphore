@@ -2,7 +2,7 @@
 <h3 align="center">Hands-on engineer with a strong understanding of AWS, DevOps and Kubernetes.</h3>
 
 
-- 🌱 I’m building stuff on the cloud, lately, AWS cloud 
+- 🌱 I’m building stuff on the cloud lately [AWS cloud] 
 
 - 👨‍💻 Check out my portfolio at [https://thato.dev/](https://thato.dev/)
 
