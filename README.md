@@ -4,11 +4,11 @@
 
 - 🌱 I’m building stuff on the cloud lately [AWS cloud] 
 
-- 👨‍💻 Check out my portfolio at [https://thato.dev/](https://thato.dev/)
+- 👨‍💻 Check out my cloud resume at [https://thato.dev/](https://thato.dev/)
 
 - 📫 Reach out at **thatoramphore.info@gmail.com**
 
-- 📍 South Africa
+- 📍 Pretoria, South Africa
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
