@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thato Ramphore</h1>
-<h3 align="center">Hands-on engineer with a strong understanding of AWS, React and Python.</h3>
+<h3 align="center">Hands-on engineer with a strong understanding of AWS, React and Docker.</h3>
 
 
 - 🌱 I’m building stuff on the cloud lately [AWS cloud]
