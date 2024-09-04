@@ -6,8 +6,6 @@
 
 - 📚 I am learning Golang at the moment
 
-- 👨‍💻 Check out my cloud resume at [https://thato.dev/](https://thato.dev/)
-
 - 📫 Reach out at **thatoramphore.info@gmail.com**
 
 - 📍 Pretoria, South Africa
